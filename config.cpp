@@ -18,5 +18,7 @@ class CfgPatches
           class RD54_6B3_R148: RD54_6B3{
 		  tf_dialog = "mr3000_radio_dialog";
 		  tf_range = 20000;
+		  tf_subtype = "digital_lr";
+		  tf_dialogUpdate = "call TFAR_fnc_updateLRDialogToChannel;";
 	  };
   };
