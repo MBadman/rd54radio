@@ -5,7 +5,7 @@ class CfgPatches
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 0.1;
-		requiredAddons[]={"40th_backpack"};
+		requiredAddons[]={"40th_bp_cfg"};
 		version = "1";
 		projectName = "rd54fix";
 		author = "bolov1999@mail.ru";
