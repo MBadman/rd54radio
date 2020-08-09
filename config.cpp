@@ -10,7 +10,7 @@ class CfgPatches
 		projectName = "rd54fix";
 		author = "bolov1999@mail.ru";
 	};
-}
+};
   class CfgVehicles{
           class Bag_Base;
 	  
@@ -20,4 +20,4 @@ class CfgPatches
 		  tf_dialog = "mr3000_radio_dialog";
 		  tf_range = 20000;
 	  };
-	  
+  };
