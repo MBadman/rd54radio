@@ -10,5 +10,10 @@ class CfgPatches
 		projectName = "rd54fix";
 		author = "bolov1999@mail.ru";
 	};
+}
   class CfgVehicles{
-          class
+          class Bag_Base;
+	  
+          class RD54_6B3: Bag_Base;
+		  
+          class RD54_6B3_R148: RD54_6B3;
