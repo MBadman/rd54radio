@@ -12,9 +12,9 @@ class CfgPatches
 	};
 };
   class CfgVehicles{
-          class {Bag_Base};
+          class Bag_Base{};
 	  
-          class RD54_6B3: {Bag_Base};
+          class RD54_6B3: Bag_Base{};
 		  
           class RD54_6B3_R148: RD54_6B3{
 		  tf_dialog = "mr3000_radio_dialog";
